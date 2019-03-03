@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/bayu/.platformio/penv/bin:/home/bayu/.platformio/penv:/home/bayu/anaconda3/bin:/home/bayu/esp/xtensa-esp32-elf/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/local/go/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
